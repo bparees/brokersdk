@@ -12,8 +12,8 @@ skeleton that is provided.
 
 
     $ make images
-    $ start up an openshift/kube cluster
-    $ have admin credentials
+    $ # start up an openshift/kube cluster
+    $ # have admin credentials
     $ cd test-scripts
     $ ./install-broker.sh
     $ ./provision.sh
