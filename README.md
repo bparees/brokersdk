@@ -10,13 +10,14 @@ skeleton that is provided.
 
 ## Running the example
 
-$ make images
-$ start up an openshift/kube cluster
-$ have permission to create new projects
-$ cd test-scripts
-$ ./install-broker.sh
-$ ./provision.sh
-$ ./bind.sh
-$ ./unbind.sh
-$ ./deprovision.sh
+
+    $ make images
+    $ start up an openshift/kube cluster
+    $ have admin credentials
+    $ cd test-scripts
+    $ ./install-broker.sh
+    $ ./provision.sh
+    $ ./bind.sh
+    $ ./unbind.sh
+    $ ./deprovision.sh
 
