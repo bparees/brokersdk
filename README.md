@@ -1,3 +1,10 @@
+# MOVED
+
+The home for this SDK has moved to 
+https://github.com/openshift/open-service-broker-sdk
+
+This repository is no longer being maintained.
+
 # BrokerSDK
 
 A skeleton project for creating new service brokers that follow the [Open Service Broker API](https://github.com/openservicebrokerapi/servicebroker)
